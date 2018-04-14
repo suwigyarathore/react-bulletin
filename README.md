@@ -2,7 +2,7 @@
 
 This app is bulletin board created as a part of my hobby project to learn React.
 
-![React Bulletin Board](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![React Bulletin Board](https://github.com/suwigyarathore/react-bulletin/blob/master/public/demo.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
