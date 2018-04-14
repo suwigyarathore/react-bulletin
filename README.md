@@ -2,6 +2,8 @@
 
 This app is bulletin board created as a part of my hobby project to learn React.
 
+![React Bulletin Board](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
